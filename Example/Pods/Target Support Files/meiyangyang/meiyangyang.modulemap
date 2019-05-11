@@ -1,0 +1,6 @@
+framework module meiyangyang {
+  umbrella header "meiyangyang-umbrella.h"
+
+  export *
+  module * { export * }
+}

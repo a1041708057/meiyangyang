@@ -1,0 +1,23 @@
+PODS:
+  - AVOSCloud (11.6.3)
+  - meiyangyang (0.1.0):
+    - AVOSCloud
+
+DEPENDENCIES:
+  - meiyangyang (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AVOSCloud
+
+EXTERNAL SOURCES:
+  meiyangyang:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AVOSCloud: 3148cbb1d05be4e479cffa206f147ef09a470fdf
+  meiyangyang: 36e2487c151587bcc3d2a345bebf126aa0db9a3c
+
+PODFILE CHECKSUM: 81285c987cdc85636d70cbed6d716f24e825b833
+
+COCOAPODS: 1.6.1

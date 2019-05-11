@@ -1,0 +1,6 @@
+framework module Pods_meiyangyang_Example {
+  umbrella header "Pods-meiyangyang_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
